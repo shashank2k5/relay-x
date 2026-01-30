@@ -1,9 +1,6 @@
-# People Counter with TFT Display
+# RelayX - Power Saving Model
 
 An Arduino/ESP32-based intelligent people counter that uses dual ultrasonic sensors to track room occupancy in real-time. The system features bidirectional detection, a color TFT display, and automated relay control based on occupancy.
-
-![Project Demo](path/to/demo-image.jpg)
-*Add your project demonstration photo here*
 
 ---
 
@@ -25,7 +22,6 @@ An Arduino/ESP32-based intelligent people counter that uses dual ultrasonic sens
 ---
 
 ## ✨ Features
-
 - **Bidirectional Detection**: Accurately counts people entering and exiting
 - **Real-time Display**: Shows current occupancy count on 1.8" TFT screen
 - **Smart Relay Control**: Automatically activates relay when room is occupied
