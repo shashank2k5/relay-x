@@ -146,7 +146,7 @@ An Arduino/ESP32-based intelligent people counter that uses dual ultrasonic sens
    - Install `Adafruit_ST7735` library
 
 4. **Upload the Code**
-   - Open `sketch_jun10a.c` in Arduino IDE
+   - Open `relay-x.ino` in Arduino IDE
    - Select your ESP32 board: Tools → Board → ESP32 Dev Module
    - Select the correct COM port: Tools → Port
    - Click Upload button
