@@ -179,9 +179,6 @@ The system uses a dual-sensor approach to determine the direction of movement:
    - 500ms delay after each successful count
    - Prevents duplicate counting of the same person
 
-![System Flow](path/to/flowchart.jpg)
-*Add flowchart or system operation diagram here*
-
 ### Display Information
 
 The TFT screen shows:
